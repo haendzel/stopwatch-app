@@ -31,6 +31,7 @@ const reset = () => {
     clearInterval(interval)
 }
 
+window.addEventListener('keydown', timer);
 btnMain.addEventListener('click', timer);
 btnReset.addEventListener('click', reset);
 

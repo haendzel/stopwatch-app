@@ -6,7 +6,7 @@ Small stopwatch app with pure JS ES6.
 
 ##
 
-| Technology  stack  |
+| Technology  stack in this project  |
 | --------------|
 | HTML5         |
 | CSS3          |

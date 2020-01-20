@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body { font-family: 'Roboto', sans-serif; margin: 0; background: #de6262; background: linear-gradient(to right, #de6262, #ffb88c); color: white;
+}
+
+.time { position: absolute; width: 100vw; top: 50%; left: 0;transform: translateY(-50%); font-size: 6rem; text-align: center; letter-spacing: .3rem;
+    @media only screen and (max-width : 360px) { font-size: 3rem; }
+}
+
+button { color: white; background-color: transparent; border-style: none; font-size: 4.4rem; margin: 3rem;
+    &:focus { outline: 0; }
+    @media only screen and (max-width : 360px) {font-size: 2rem; margin: 1rem; }
+}
+

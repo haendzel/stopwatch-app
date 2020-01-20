@@ -7,10 +7,12 @@ Small stopwatch app with pure JS ES6.
 ##
 
 | Technology  stack  |
-| ------------|
+| --------------|
 | HTML5         |
 | CSS3          |
 | Javascript ES6|
 | Sass          |
 | RWD           |
+| Gulp          |
+| Node.js       |
 

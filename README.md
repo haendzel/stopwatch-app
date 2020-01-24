@@ -4,7 +4,6 @@ Small stopwatch app with pure JS ES6.
 
 [Watch demo](https://haendzel.github.io/stopwatch-app/)
 
-##
 
 | Technology  stack in this project  |
 | --------------|
